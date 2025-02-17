@@ -1,6 +1,6 @@
-# Intermediate Solidity Quiz By RareSkills (aka Solidity Mid Quiz)
+# Intermediate Solidity Quiz By RareSkills (aka Solidity Speed Quiz)
 
-The Intermediate Solidity Quiz is a collection of problems that tests engineers on intermediate-level Solidity syntax. After teaching hundreds of Solidity engineers -- including professional ones -- we've seen that many tend to struggle to produce answers quickly to the kinds of problems in this quiz.
+The Solidity Speed Quiz is a collection of problems that tests engineers on intermediate-level Solidity syntax. After teaching hundreds of Solidity engineers -- including professional ones -- we've seen that many tend to struggle to produce answers quickly to the kinds of problems in this quiz.
 
 None of these problems require any clever "tricks" to or "hacks" to solve. If you understand the underlying concept, these problems are straightforward -- even easy. If you are using assembly, you are on the wrong track. If you write more than 10 lines of Solidity code, you are also on the wrong track.
 
