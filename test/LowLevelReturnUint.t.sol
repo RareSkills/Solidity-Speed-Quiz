@@ -16,7 +16,7 @@ contract Bar2 {
     }
 }
 
-contract LowLevelReturnTest is Test {
+contract LowLevelReturnUintTest is Test {
     LowLevelReturnUint c;
 
     function setUp() public {
